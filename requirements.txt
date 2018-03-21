@@ -1,0 +1,8 @@
+Travel Website
+
+- Destinations Pricing
+- Quotes
+- Contact Section
+- Activities
+- Hotels
+
